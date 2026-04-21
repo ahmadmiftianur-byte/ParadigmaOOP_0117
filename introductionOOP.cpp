@@ -16,3 +16,10 @@ class Mahasiswa {
 
 int main() {//objek
     Mahasiswa mhs1;
+        mhs1.nim = 2022;
+        mhs1.nama = "Abra";
+        mhs1.nilai = 90.5;
+
+    mhs1.PrintData();
+
+}
