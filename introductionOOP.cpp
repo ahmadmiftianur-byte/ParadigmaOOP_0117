@@ -3,5 +3,6 @@ using namespace std;
 
 class Mahasiswa {
     public:
-       int nim;
+         int nim;
+         string nama;
         
